@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2017/06/10/07/30/web-2389250_960_720.jpg)](https://cgisu.io)
+[![MasterHead](https://cdn.pixabay.com/photo/2018/03/10/18/03/laptop-3214756_960_720.png)](https://cgisu.io)
 <h1 align="center">Hi 👋, I'm Isaias</h1>
 <h3 align="center">I am Electrical Engineer and passionate software Developer from UAE.</h3>
 
