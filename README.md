@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Isaias</h1>
 <h3 align="center">I am Electrical Engineer and passionate Software Developer from UAE.</h3>
-
-
+<!-- <p> Isaias Mehari Ghebrehiwet, Isaias Mehari, ኢሳይያስ መሓሪ ገብረሂወት, Isaias M. Ghebrehiwet, Isaias Afewerki, Eritrea, Eritrean, Asmara, UAE, UAEU, United Arab Emirates, EIT, Eritrean Institute of Technology, Sawa, ERITV</p> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cgisu&label=Profile%20views&color=0e75b6&style=flat" alt="cgisu" /> </p>
