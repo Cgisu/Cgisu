@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/isaiasmehari" target="blank"><img src="https://img.shields.io/twitter/follow/isaiasmehari?logo=twitter&style=for-the-badge" alt="isaiasmehari" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif">
-- 🌱 I’m currently learning **Python and Vue.**
+- 🌱 I’m currently learning **Python and Web Development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cgisu](https://github.com/Cgisu)
 
-- 💬 Ask me about **Python, JavaScript and Vue.**
+- 💬 Ask me about **Python and Web development.**
 
 - 📫 How to reach me **isumg2015@yahoo.com**
 
